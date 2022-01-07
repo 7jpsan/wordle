@@ -1,0 +1,29 @@
+{
+  "name": "wordle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gen:en": "npx ts-node ./scripts/word-gen.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "english-words": "^0.0.1",
+    "french-words": "^2.1.2",
+    "italian-words": "^4.1.2",
+    "italian-words-dict": "^2.1.2",
+    "random-words": "^1.1.1",
+    "spanish-words": "^2.1.2",
+    "ts-node": "^10.4.0",
+    "wordlist-english": "^1.2.1",
+    "words-pt": "^1.0.19"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.8",
+    "@types/random-words": "^1.1.2",
+    "prettier": "^2.5.1",
+    "typescript": "^4.5.4"
+  }
+}
