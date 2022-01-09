@@ -8,6 +8,8 @@ Languages (en, pt, ...), how many guesses and how many letters (5-8) are all con
 
 Run `npm i` to get the depedencies and then:
 
+`npm run gen-words` (prime them words) followed by
+
 `npm run play` for a default english, 5 letter, 6 guesses game.
 
 If you want to configure your play, please use the options provided.
