@@ -16,6 +16,11 @@ If you want to configure your play, please use the options provided.
 
 In this version, Input/Output will all be your local terminal and a random word is choses everytime.
 
+# Examples
+
+![Example 1](https://github.com/7jpsan/wordle/blob/main/example.png)
+![Example 2](https://github.com/7jpsan/wordle/blob/main/example-2.png)
+
 # TODO:
 
 1. Make a FE for it so we can publish to the wider world
